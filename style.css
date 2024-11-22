@@ -519,3 +519,16 @@ navbar {
   margin-bottom: 16px;
 }
 
+.choose-us > .card-container > .third-card-container > .third-card > p {
+  color: #5a5a5d;
+  font-family: Mulish;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+}
+
+.third-card-container {
+  display: flex;
+  justify-content: center;
+}
